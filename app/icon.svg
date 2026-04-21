@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="55 57 115 121">
+<defs>
+<clipPath id="clip-1">
+<path clip-rule="nonzero" d="M 79 70 L 163 70 L 163 112 L 79 112 Z M 79 70 "/>
+</clipPath>
+<clipPath id="clip-2">
+<path clip-rule="nonzero" d="M 94.089844 79.0625 C 94.089844 79.0625 80.660156 89.0625 79.515625 111.640625 C 83.53125 91.910156 94.117188 79.101562 114.664062 76.777344 C 128.8125 76.570312 141.5625 81.265625 150.671875 98.78125 L 162.105469 89.636719 C 162.105469 89.636719 145.0625 70.09375 121.273438 70.09375 C 112.898438 70.09375 103.6875 72.515625 94.089844 79.0625 "/>
+</clipPath>
+<linearGradient id="lg0" gradientUnits="userSpaceOnUse" x1="79.515778" y1="90.867116" x2="162.103730" y2="90.867116">
+<stop offset="0" stop-color="#021a62"/>
+<stop offset="0.5" stop-color="#008E73"/>
+<stop offset="1" stop-color="#02c19d"/>
+</linearGradient>
+<clipPath id="clip-3">
+<path clip-rule="nonzero" d="M 79 65 L 163 65 L 163 112 L 79 112 Z M 79 65 "/>
+</clipPath>
+<clipPath id="clip-4">
+<path clip-rule="nonzero" d="M 113.179688 66.089844 C 90.289062 71.203125 79.746094 86.960938 79.746094 111.8125 C 80.9375 89.914062 91.363281 75.410156 114.324219 70.945312 C 131.21875 68.777344 147.257812 74.734375 162.332031 89.808594 C 151.75 72.273438 138.253906 65.253906 122.8125 65.25 C 119.679688 65.25 116.464844 65.539062 113.179688 66.089844 "/>
+</clipPath>
+<linearGradient id="lg1" gradientUnits="userSpaceOnUse" x1="79.744934" y1="88.532094" x2="162.332886" y2="88.532094">
+<stop offset="0" stop-color="#02c19d"/>
+<stop offset="0.5" stop-color="#008E73"/>
+<stop offset="1" stop-color="#021a62"/>
+</linearGradient>
+<clipPath id="clip-5">
+<path clip-rule="nonzero" d="M 68 60 L 120 60 L 120 154 L 68 154 Z M 68 60 "/>
+</clipPath>
+<clipPath id="clip-6">
+<path clip-rule="nonzero" d="M 73.886719 89.519531 C 67.710938 101.757812 67.101562 116.136719 72.667969 128.664062 C 77.871094 140.367188 87.222656 148.128906 99.167969 153.417969 C 84.144531 144.679688 72.957031 131.5625 73.863281 104.636719 C 77.355469 76.109375 94.761719 63.972656 119.273438 60.214844 C 99.269531 61.597656 83.554688 70.355469 73.886719 89.519531 "/>
+</clipPath>
+<linearGradient id="lg2" gradientUnits="userSpaceOnUse" x1="68.847206" y1="106.815251" x2="119.271263" y2="106.815251">
+<stop offset="0" stop-color="#021a62"/>
+<stop offset="0.5" stop-color="#008E73"/>
+<stop offset="1" stop-color="#02c19d"/>
+</linearGradient>
+<clipPath id="clip-7">
+<path clip-rule="nonzero" d="M 62 60 L 120 60 L 120 157 L 62 157 Z M 62 60 "/>
+</clipPath>
+<clipPath id="clip-8">
+<path clip-rule="nonzero" d="M 62.757812 109.835938 C 63.492188 134.773438 76.113281 156.792969 111.820312 156.511719 C 89.210938 151.628906 75.203125 140.199219 70.320312 121.570312 C 67.707031 111.59375 68.738281 100.894531 72.9375 91.472656 C 80.929688 73.515625 95.652344 62.652344 119.128906 60.070312 C 86.945312 61.230469 65.285156 74.511719 62.757812 109.835938 "/>
+</clipPath>
+<linearGradient id="lg3" gradientUnits="userSpaceOnUse" x1="62.757855" y1="108.292683" x2="119.130684" y2="108.292683">
+<stop offset="0" stop-color="#02c19d"/>
+<stop offset="0.5" stop-color="#008E73"/>
+<stop offset="1" stop-color="#021a62"/>
+</linearGradient>
+<clipPath id="clip-9">
+<path clip-rule="nonzero" d="M 58 87 L 167 87 L 167 168 L 58 168 Z M 58 87 "/>
+</clipPath>
+<clipPath id="clip-10">
+<path clip-rule="nonzero" d="M 85.003906 130.046875 C 92.976562 148.328125 107.25 159.160156 133.898438 155.363281 C 127.015625 159.089844 119.09375 161.171875 109.6875 160.902344 C 77.378906 158.011719 67.546875 140.691406 58.898438 122.609375 C 65.539062 144.269531 78.710938 160.800781 105.574219 166.597656 C 128.273438 168.851562 148.695312 162.367188 166.175781 144.601562 L 153.832031 134.476562 C 146.382812 147.3125 135.945312 153.359375 122.558594 152.699219 C 110.433594 152.097656 99.085938 146.269531 91.96875 136.4375 C 79.722656 119.511719 85.679688 99.160156 101.460938 87.011719 C 86.734375 96.296875 79.804688 109.851562 85.003906 130.046875 "/>
+</clipPath>
+<linearGradient id="lg4" gradientUnits="userSpaceOnUse" x1="58.898251" y1="127.01875" x2="166.174618" y2="127.01875">
+<stop offset="0" stop-color="#02c19d"/>
+<stop offset="0.5" stop-color="#008E73"/>
+<stop offset="1" stop-color="#021a62"/>
+</linearGradient>
+<clipPath id="clip-11">
+<path clip-rule="nonzero" d="M 58 121 L 167 121 L 167 175 L 58 175 Z M 58 121 "/>
+</clipPath>
+<clipPath id="clip-12">
+<path clip-rule="nonzero" d="M 112.378906 174.207031 C 139.371094 174.1875 155.949219 162.621094 166.175781 144.304688 C 156.21875 155.476562 142.871094 162.613281 125.847656 165.371094 C 115.421875 167.0625 104.71875 166.296875 94.757812 162.789062 C 73.855469 155.4375 64.859375 139.726562 58.738281 121.992188 C 64.167969 150.324219 79.550781 169.917969 112.378906 174.207031 "/>
+</clipPath>
+<linearGradient id="lg5" gradientUnits="userSpaceOnUse" x1="58.740028" y1="148.100873" x2="166.174621" y2="148.100873">
+<stop offset="0" stop-color="#021a62"/>
+<stop offset="0.5" stop-color="#008E73"/>
+<stop offset="1" stop-color="#02c19d"/>
+</linearGradient>
+</defs>
+<g clip-path="url(#clip-1)"><g clip-path="url(#clip-2)">
+<path fill-rule="nonzero" fill="url(#lg0)" d="M 79.515625 70.09375 L 79.515625 111.640625 L 162.105469 111.640625 L 162.105469 70.09375 Z"/>
+</g></g>
+<g clip-path="url(#clip-3)"><g clip-path="url(#clip-4)">
+<path fill-rule="nonzero" fill="url(#lg1)" d="M 79.746094 65.25 L 79.746094 111.8125 L 162.332031 111.8125 L 162.332031 65.25 Z"/>
+</g></g>
+<g clip-path="url(#clip-5)"><g clip-path="url(#clip-6)">
+<path fill-rule="nonzero" fill="url(#lg2)" d="M 67.101562 60.214844 L 67.101562 153.417969 L 119.273438 153.417969 L 119.273438 60.214844 Z"/>
+</g></g>
+<g clip-path="url(#clip-7)"><g clip-path="url(#clip-8)">
+<path fill-rule="nonzero" fill="url(#lg3)" d="M 62.757812 60.070312 L 62.757812 156.792969 L 119.128906 156.792969 L 119.128906 60.070312 Z"/>
+</g></g>
+<g clip-path="url(#clip-9)"><g clip-path="url(#clip-10)">
+<path fill-rule="nonzero" fill="url(#lg4)" d="M 58.898438 87.011719 L 58.898438 168.851562 L 166.175781 168.851562 L 166.175781 87.011719 Z"/>
+</g></g>
+<g clip-path="url(#clip-11)"><g clip-path="url(#clip-12)">
+<path fill-rule="nonzero" fill="url(#lg5)" d="M 58.738281 121.992188 L 58.738281 174.207031 L 166.175781 174.207031 L 166.175781 121.992188 Z"/>
+</g></g>
+</svg>
