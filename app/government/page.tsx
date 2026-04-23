@@ -236,6 +236,38 @@ export default function GovernmentPage() {
         </div>
       </section>
 
+      {/* Sectors Served */}
+      <section className="bg-white py-12 border-t border-gray-100">
+        <div className="max-w-7xl mx-auto px-5 sm:px-8 lg:px-10">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="h-px w-8" style={{ backgroundColor: "#008E73" }} />
+            <span className="section-label" style={{ color: "#008E73" }}>Industries</span>
+          </div>
+          <h2 className="text-2xl sm:text-3xl font-black mb-6" style={{ color: "#021a62" }}>
+            Sectors Served
+          </h2>
+          <div className="flex flex-wrap gap-2">
+            {[
+              "Federal Civilian Agencies",
+              "Department of Defense & Intelligence Community",
+              "State & Local Government",
+              "Financial Services",
+              "Healthcare",
+              "Industrial & Manufacturing",
+              "Prime Contractors & Systems Integrators",
+            ].map((sector) => (
+              <span
+                key={sector}
+                className="text-sm font-medium px-4 py-2 rounded-lg"
+                style={{ backgroundColor: "#f5f7f6", border: "1px solid #e5e7eb", color: "#021a62" }}
+              >
+                {sector}
+              </span>
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* Certifications and Designations */}
       <section className="bg-white py-16">
         <div className="max-w-7xl mx-auto px-5 sm:px-8 lg:px-10">

@@ -257,13 +257,24 @@ export default function WorkforcePage() {
                 </li>
               ))}
             </ul>
-            <Link
-              href="/contact"
-              className="inline-block px-8 py-4 font-semibold rounded text-white transition-all duration-200"
-              style={{ backgroundColor: "#008E73" }}
-            >
-              Discuss Talent Requirements
-            </Link>
+            <p className="text-gray-400 text-sm mb-6">
+              Available for organizational engagements and individual enrollment by inquiry.
+            </p>
+            <div className="flex flex-col sm:flex-row gap-4">
+              <Link
+                href="/contact"
+                className="inline-block px-8 py-4 font-semibold rounded text-white transition-all duration-200 text-center"
+                style={{ backgroundColor: "#008E73" }}
+              >
+                Discuss Workforce Solutions
+              </Link>
+              <Link
+                href="/contact"
+                className="inline-block px-8 py-4 font-semibold rounded text-white border-2 border-white/30 hover:border-white/70 hover:bg-white/10 transition-all duration-200 text-center"
+              >
+                Inquire About Training
+              </Link>
+            </div>
           </div>
         </div>
       </section>
